@@ -1,4 +1,4 @@
-# python_algorithm
+## python_algorithm
 python algorithm (structures)
 
 Built-in Data Structures
@@ -23,3 +23,18 @@ Algorithms
 - Searching Algorithm: Seek for some elements present in a given dataset
 
 Ref. https://towardsdatascience.com/data-structures-algorithms-in-python-68c8dbb19c90
+
+## python built-in function
+- abs(x)
+- bool(x)
+- complex(real, imag)
+- divmod(a, b)
+- float(x)
+- hex(x)
+- int(x, base)
+- max(args1, args2)
+- min(args1, args2)
+- oct(x)
+- pow(x, y, z)
+- round(n, ndigits)
+- sum(x, start)
