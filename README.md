@@ -38,3 +38,43 @@ Ref. https://towardsdatascience.com/data-structures-algorithms-in-python-68c8dbb
 - pow(x, y, z)
 - round(n, ndigits)
 - sum(x, start)
+
+## table of contents
+1. basic algorithm
+- iterative algorithm
+2. basic data structure & array
+- concept of array
+- some examples
+3. search algorithm
+- linear search
+- binary search
+- hash method
+4. stack & queue
+- stack program
+- queue program
+5. recursive algorithm
+- basic recursive algorithm
+- tower of Hanoi
+- 8 queen problem
+6. sorting algorithm
+- basic sorting algorithm
+- bubble sort
+- simple selection sort
+- simple insertion sort
+- cell sort
+- quick sort
+- merge sort
+- heap sort
+- counting sort
+7. string search algorithm
+- brute force search
+- KMP method
+- Boyer-Moore algorithm
+8. list
+- linked list
+- linked list using pointer
+- linked list using cursor
+- circular doubly linked list
+9. tree
+- tree structure
+- binary tree and binary search tree
